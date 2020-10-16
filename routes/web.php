@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+// use App\Http\Controllers\IndexController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +13,23 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('home/index');
+// });
+
+// Root
+Route::get('/', [\App\Http\Controllers\IndexController::class, 'index']);
+
+// Route for email contact in index.blade
+Route::post('index/send', 'IndexController@send');
+
+
+Route::get('pages/about-me', 'PagesController@about');
+
+Route::get('pages/contact', 'PagesController@contact');
+
+Route::post('sendemail/send', 'SendEmailController@send');
+
+Route::get('pages/blog-posts', 'PagesController@blog');
+
+Route::post('subscribe/send', 'SubscribeController@send');
