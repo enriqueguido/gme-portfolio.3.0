@@ -51,7 +51,7 @@
             <p>Portfolio</p>
           </a>
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="https://salty-atoll-75507.herokuapp.com/" target="_blank">
+            <a class="dropdown-item" href="https://floating-temple-77823.herokuapp.com/" target="_blank">
               <i class="tim-icons icon-atom"></i> Genome Technologies
             </a>
             <a class="dropdown-item" href="" target="_blank">
