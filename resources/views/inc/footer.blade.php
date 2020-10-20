@@ -18,7 +18,7 @@
     </li>
     <li>
       <a href='{!! url('pages/contact'); !!}'>
-        Contact Me
+        Contact
       </a>
     </li>
     <li>

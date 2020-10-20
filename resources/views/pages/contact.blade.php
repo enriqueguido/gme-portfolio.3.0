@@ -174,7 +174,7 @@
                        </div>
                      </div>
                      <div class="col-md-6">
-                       <button type="submit" name="send" value"Send" class="btn btn-primary btn-primary-contact btn-round pull-right">Send Message</button>
+                       <button type="submit" name="send" value"Send" class="btn btn-primary btn-primary-contact btn-round-contact pull-right">Send Message</button>
                      </div>
                    </div>
                  </div>
@@ -212,7 +212,7 @@
                    </div>
                    <div class="description">
                      <h5 class="info-title">
-                       info@codeblockapps.com
+                       info@gmeportfolio.com
                      </h5>
                    </div>
                  </div>

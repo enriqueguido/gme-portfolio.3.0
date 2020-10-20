@@ -20062,9 +20062,9 @@ html {
 
 .landing-page .section:nth-of-type(2) .path {
   left: auto;
-  right: -250px;
-  max-width: 70%;
-  top: 0;
+  right: -200px;
+  max-width: 50%;
+  top: 25px;
 }
 
 .landing-page .section:nth-of-type(2) .path2 {
@@ -20092,7 +20092,7 @@ html {
 .landing-page .section:nth-of-type(3) .path {
   right: auto;
   left: -5%;
-  max-width: 55s%;
+  max-width: 50%;
   top: 55px;
 }
 

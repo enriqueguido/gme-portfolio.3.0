@@ -8,6 +8,11 @@
     color: #ffffff !important;
 }
 
+.btn-round-contact {
+  border-width: 1px;
+  border-radius: 10px;
+}
+
 .blog-post-social-li {
   position: absolute !important;
   right: 60px !important;
@@ -973,11 +978,11 @@
 }
 
 .github-background-index {
-  font-size: 550px;
+  font-size: 450px;
   opacity: 0.02;
   z-index: -999;
   position: absolute;
-  top: 5%;
+  top: 10%;
   left: -5%;
 }
 
@@ -1356,7 +1361,13 @@ and (max-device-width : 736px) { */
   }
 }
 
-@media screen and (max-width: 415px) {
+@media only screen
+  and (device-width : 414px)
+  and (device-height : 823px) {
+
+  .index-page .page-header {
+    height: 100vh;
+  }
 
   .about-me-header {
     min-height: 100vh;
@@ -1378,9 +1389,9 @@ and (max-device-width : 736px) { */
   #logo-name {
       width: 75% !important;
       display: block;
-      margin-left: 11%;
+      margin-left: 12%;
       margin-right: auto;
-      margin-top: -25%;
+      margin-top: -30%;
   }
 
   .page-header .content-center.brand {
@@ -1434,6 +1445,18 @@ and (max-device-width : 736px) { */
 
   .index-github {
     top: 86% !important;
+  }
+
+  .home-grid {
+    display: block;
+    margin-left: -175%;
+    margin-right: auto;
+    width: 40%;
+    margin-bottom: -110%;
+  }
+
+  .landing-page .page-header .triangle {
+    display: none;
   }
 }
 
@@ -1589,7 +1612,7 @@ and (max-device-width : 736px) { */
     width: 45%;
   }
 
-    .index-page .mobile-header {
+  .index-page .mobile-header {
     max-height: 700px !important;
   }
 
