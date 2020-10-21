@@ -8,11 +8,6 @@
     color: #ffffff !important;
 }
 
-.btn-round-contact {
-  border-width: 1px;
-  border-radius: 10px;
-}
-
 .blog-post-social-li {
   position: absolute !important;
   right: 60px !important;
@@ -978,11 +973,11 @@
 }
 
 .github-background-index {
-  font-size: 450px;
+  font-size: 550px;
   opacity: 0.02;
   z-index: -999;
   position: absolute;
-  top: 10%;
+  top: 5%;
   left: -5%;
 }
 
