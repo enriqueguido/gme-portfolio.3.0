@@ -26,16 +26,16 @@
               <a target="_blank" href="https://www.instagram.com/code_monkey01/" class="btn btn-icon btn-instagram btn-round" data-toggle="tooltip" data-original-title="Follow me on Instagram">
                 <i class="fab fa-instagram"></i>
               </a> -->
-              <!-- <a target="_blank" href="https://www.linkedin.com/in/guido-maximiliano-enrique/" class="btn btn-icon btn-linkedin  btn-round" data-toggle="tooltip" data-original-title="Follow me on LinkedIn">
+              <a target="_blank" href="https://www.linkedin.com/in/guido-maximiliano-enrique/" class="btn btn-icon btn-linkedin  btn-round" data-toggle="tooltip" data-original-title="Follow me on LinkedIn">
                 <i class="fab fa-linkedin"></i>
               </a>
               <a target="_blank" href="https://github.com/enriqueguido" class="btn btn-icon btn-github btn-round" data-toggle="tooltip" data-original-title="Follow me on GitHub">
                 <i class="fab fa-github"></i>
-              </a> -->
+              </a>
 
             <!-- </div> -->
           </div>
-          <div class="blog-post-social-li">
+          <!-- <div class="blog-post-social-li">
             <a id="linkedin" class="btn btn-icon btn-linkedin btn-round linkedin-invert-background btn-index-social" data-toggle="tooltip" data-original-title="Follow me on LinkedIn!">
               <i class="fab fa-linkedin fa-linkedin-invert"></i>
             </a>
@@ -44,7 +44,7 @@
             <a id="github" class="btn btn-icon btn-github btn-round github-invert-background btn-index-social" data-toggle="tooltip" data-original-title="Check out my projects on GitHub!">
               <i class="fab fa-github fa-github-invert "></i>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

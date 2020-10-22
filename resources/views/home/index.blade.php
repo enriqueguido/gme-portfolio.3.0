@@ -76,8 +76,8 @@
           <!-- <div class="col-lg-8 col-md-12 sec-margin-top"> -->
             <h1 class="text-center">My Skills</h1>
             <h4 class="description description-tech description-text">
-              I am interested in all areas of software development and allways working on new projects.
-              Contact me to find out what what programming languages im learning now or to know what projects I am working on.
+              I am passionate aboute UX/UI design and love coding. I thrive when using technology to solve problems, and I am always up for a new challenge.
+              Keep scrolling to find out more about me!
             </h4>
             <!-- <div class="btn-wrapper">
             </div> -->
@@ -100,28 +100,17 @@
           <div class="progress-container progress-success progress-index right-progress">
             <span class="progress-badge">JavaScript, AJAX, JQuery, Bootstrap</span>
             <div class="progress">
-              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
-                <span class="progress-value">75%</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="progress-container progress-success progress-index right-progress">
-            <span class="progress-badge">Figma, Photoshop, Adobe Illustrator</span>
-            <div class="progress">
               <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
                 <span class="progress-value">80%</span>
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="center-progress-left">
-          <div class="progress-container progress-success progress-index">
-            <span class="progress-badge">PostgreSQL, Heroku</span>
+          <div class="progress-container progress-success progress-index right-progress">
+            <span class="progress-badge">Figma, Photoshop, Illustrator, Miro</span>
             <div class="progress">
-              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-                <span class="progress-value">60%</span>
+              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
+                <span class="progress-value">85%</span>
               </div>
             </div>
           </div>
@@ -129,10 +118,21 @@
 
         <div class="center-progress-left">
           <div class="progress-container progress-success progress-index">
-            <span class="progress-badge">Project Management, User &amp; Usability Testing  </span>
+            <span class="progress-badge">PostgreSQL, Heroku, Github</span>
+            <div class="progress">
+              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                <span class="progress-value">70%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="center-progress-left">
+          <div class="progress-container progress-success progress-index">
+            <span class="progress-badge">Project Mgmt, Analytics Reporting, User Testing &amp; Research</span>
             <div class="progress">
               <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                <span class="progress-value">80%</span>
+                <span class="progress-value">90%</span>
               </div>
             </div>
           </div>
@@ -140,16 +140,16 @@
 
         <div class="center-progress">
           <div class="progress-container progress-success progress-index right-progress">
-            <span class="progress-badge">Version Control With Git</span>
+            <span class="progress-badge">Zeplin, Jira, Slack &amp; Collaboration Tools</span>
             <div class="progress">
-              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-                <span class="progress-value">80%</span>
+              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;">
+                <span class="progress-value">95%</span>
               </div>
             </div>
           </div>
 
           <div class="progress-container progress-success progress-index right-progress">
-            <span class="progress-badge">Ruby on Rails &amp; Laravel</span>
+            <span class="progress-badge">Ruby on Rails,Ruby, Laravel, PHP</span>
             <div class="progress">
               <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
                 <span class="progress-value">70%</span>
@@ -160,10 +160,10 @@
 
         <div class="center-progress-left">
           <div class="progress-container progress-success progress-index">
-            <span class="progress-badge">Ruby, PHP</span>
+            <span class="progress-badge">English, Spanish</span>
             <div class="progress">
-              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-                <span class="progress-value">70%</span>
+              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                <span class="progress-value">100%</span>
               </div>
             </div>
           </div>
@@ -175,7 +175,7 @@
     <!-- <img src="../img/path2.png" class="path2"> -->
     <img src="../img/triunghiuri.png" class="shapes triangle triangle-mobile">
     <img src="../img/waves.png" class="shapes wave">
-    <img src="../img/patrat.png" class="shapes squares">
+    <!-- <img src="../img/patrat.png" class="shapes squares"> -->
     <img src="../img/cercuri.png" class="shapes circle">
     </div>
   </div>
@@ -188,7 +188,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-12">
-            <h1 class="text-center">Features Of My WebApplications </h1>
+            <h1 class="text-center">Features Of My Digital Products</h1>
             <div class="row row-grid justify-content-center">
               <div class="col-lg-4">
                 <div class="info">
@@ -272,11 +272,11 @@
             </div>
             <div class="col-md-6">
               <div class="pl-md-5">
-                <h1>Project
-                  <br/>Management</h1>
-                <p>Acquired hands-on experience as a project manager and work with stakeholders and executives to understand and analyze project requirements, and manage projects from beginning to end while ensuring that the projects get accomplished within its due time, budget, and scope.</p>
+                <h1>Current
+                  <br/>Experience</h1>
+                <p>I acquired hands-on experience as a project coordinator and work with stakeholders and executives to understand and analyze project requirements, and manage projects from beginning to end while ensuring that the projects get accomplished within its due time, budget, and scope.</p>
                 <br/>
-                <p>I have gained valuable experience in streamlining business processes, conflict resolution, and created Standard Operation Procedures, and training manuals for small and mid-size companies.</p>
+                <p>I am in charge of creating reports in Salesforce for the executive team for several user metrics for their physcian portal, as well as the main contact for escalated complaints in the QM dept, among other duties.</p>
                 <br/>
                 <a href='{!! url('pages/about-me'); !!}' class="font-weight-bold text-info mt-5">See More <i class="tim-icons icon-minimal-right text-info"></i></a>
               </div>
@@ -296,11 +296,13 @@
           <div class="row row-grid justify-content-between">
             <div class="col-md-6">
               <div class="pl-md-5">
-                <h1>Start-up
+                <h1>Design &amp; Development
                   <br/>Experience</h1>
-                <p>I Have worked hand-in-hand with founders to design logos, pitch decks, business plans, financial projections, and much more.</p>
+                <p>I Have worked hand-in-hand with founders to design fully responsive web-applications, prototypes, logos, pitch decks, business plans, financial projections, and much more.
+                   I have valuable freelance experience that alloweds me to design user centric technology products that are data driven.</p>
                 <br/>
-                <p>I am well versed in the Lean Start-up & agile methodologies and can help you turn your idea to a full flesh product.</p>
+                <p>My technical abilities in different programming languages such as JavaScript &amp; Ruby allows me to bring a product from ideation to conception.
+                  Because of my programming expertise I work extremely well in all types of teams &amp; can bridge the gap between the technical and no-tecnical world.</p>
                 <br/>
                 <a href='{!! url('pages/about-me'); !!}' class="font-weight-bold text-info mt-5">See More <i class="tim-icons icon-minimal-right text-info"></i></a>
               </div>
@@ -371,7 +373,7 @@
                     <h1 class="title">WellCare Pediatrics</h1>
                   </div>
                   <div class="col-md-4">
-                    <img class="d-block margin-img-left" src="../img/Group 27.svg" alt="First slide" height="500">
+                    <img class="d-block margin-img-left" src="../img/wellcare-logo-bandaid-background.png" alt="First slide" height="500">
                   </div>
                   <div class="col-md-4">
                     <div class="wrapper">
@@ -567,7 +569,7 @@
             <div class="col-lg-6 col-md-8 ml-auto mr-auto">
               <!-- <div class="logo"> -->
                 <!-- <div class="logo-image"> -->
-                  <img class="logo-cb-margin"src="../img/Group 28.svg" height="100" width="100">
+                  <img class="logo-cb-margin"src="../img/Group 27.svg" height="100" width="100">
                   <!-- <h2 class="cb-mail-contact">CodeBlock</h2> -->
                 <!-- </div> -->
               <!-- </div> -->

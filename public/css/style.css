@@ -973,11 +973,11 @@
 }
 
 .github-background-index {
-  font-size: 550px;
+  font-size: 500px;
   opacity: 0.02;
   z-index: -999;
   position: absolute;
-  top: 5%;
+  top: 10%;
   left: -5%;
 }
 

@@ -40,7 +40,7 @@
         <div class="col-lg-6 col-md-6">
           <h1 class="profile-title text-left profile-name-align">Who I am</h1>
           <h5 class="text-on-back">01</h5>
-          <p class="profile-description">I was born in Buenos Aires, Argentina and currently residing in Tamarac, Florida. A tech lover at heart with an analytical mind and an eye for detailed. I am an attentive, compassionate individual, tolerant of many things while supportive of others and their goals. Professional and industry knowledgeable.
+          <p class="profile-description">I was born in Buenos Aires, Argentina and currently residing in South Florida, Fort Lauderdale area. A tech lover at heart with an analytical mind and an eye for detailed. I love creative work &amp; building things which is why I spend most of my free time drawing, painting, and playing video games, &amp; building things in my laptop.
             I am dedicated and committed to perfecting my craft, ambitious, driven, and results oriented. I love problem solving and finding fixes with technology.</p>
           <div class="btn-wrapper profile pt-3 pad-wrapper">
             <a target="_blank" href="https://twitter.com/maxstang21" class="btn btn-icon btn-twitter btn-round" data-toggle="tooltip" data-original-title="Follow me on Twitter">
@@ -67,7 +67,7 @@
               <ul class="nav nav-tabs nav-tabs-primary justify-content-center">
                 <li class="nav-item">
                   <a class="nav-link active about-me-nav-color" data-toggle="tab" href="#linka">
-                    Full-Stack
+                    Technologies
                   </a>
                 </li>
                 <li class="nav-item">
@@ -244,9 +244,9 @@
                 <div class="card-body text-left">
                   <div class="card-footer mt-0">
                     <div class="author">
-                      <span>MDVIP Project Manager</span>
+                      <span>MDVIP Project Coordinator</span>
                       <div class="about-me-work">
-                        Currently employed as a Project Manager where I work with stakeholders and executives to understand and analyze project requirements, and manage projects from beginning to end while ensuring that the projects get accomplished within its due time, budget, and scope. Perform business analyst functions depending on the size of the project or requirements.
+                         Manage project from beginning to end, in charge of complaint resolutions, Streamelined processes &amp; wrote 3 S.O.P's. In Charge of providing user &amp; physician metrics &amp; analitics to the excecutive team &amp; HR department among other duties. I am as well in charge of researching, developing, &amp; contacting all partnership inquries from outside companies.
                       </div>
                     </div>
                   </div>
@@ -479,7 +479,7 @@
     <div class="col-md-8 ml-auto mr-auto text-center mt-4">
       <h3 class="title">Interested in hiring me?</h3>
       <h4 class="description mb-5">If you got questions about my projects or need assitance with any work feel free to contact me at any time. <br> I'm here to help!</h4>
-      <a type="submit" href='{!! url('pages/contact'); !!}' class="btn btn-primary btn-primary-contact btn-round btn-lg mrgn-bot-about">Contact me</a>
+      <button type="submit" href='{!! url('pages/contact'); !!}' class="btn btn-primary btn-primary-contact btn-round-contact btn-lg mrgn-bot-about">Contact Me</button>
     </div>
   </div>
 
