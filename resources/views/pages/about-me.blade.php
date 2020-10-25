@@ -374,8 +374,26 @@
                   <img src="../img/broward_college.jpg" alt="Circle image" class="img-fluid rounded-circle shadow" style="width: 100px;">
                 </a>
                 <h4 class="card-title mb-0">Broward College</h4>
-                <p class="card-description">Curretly pursuing a bachelors degree in Information Technology with a minors in Business Administration.</p>
+                <p class="card-description">Pursuing a bachelors degree in Information Technology with a minors in Business Administration.</p>
                 <h5 class="card-title mt-4">Bachelors Information Technology</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-header mt-2">
+                <div class="float-left">
+                  <i class="tim-icons icon-tag d-inline text-success"></i>
+                  <p class="d-inline">2020</p>
+                </div>
+              </div>
+              <div class="card-body text-center p-4">
+                <a href="https://www.udacity.com/course/ux-designer-nanodegree--nd578" target="_blank">
+                  <img src="../img/Udacity-logo_small.png" alt="Circle image" class="img-fluid rounded-circle shadow experience-circle-pic" style="width: 100px;">
+                </a>
+                <h4 class="card-title mb-0">Udacity</h4>
+                <p class="card-description">Learned UX Fund, Design Research, Concept to Low-Fidelity Prototyping, High-Fidelity Prototyping to Post-Launch Analysis.</p>
+                <h5 class="card-title mt-4">UX Designer.</h5>
               </div>
             </div>
           </div>
@@ -415,7 +433,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <div class="card">
               <div class="card-header mt-2">
                 <div class="float-left">
@@ -432,7 +450,7 @@
                 <h5 class="card-title mt-4">Business Specialist Certification</h5>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-md-4">
             <div class="card">
               <div class="card-header mt-2">
@@ -479,7 +497,7 @@
     <div class="col-md-8 ml-auto mr-auto text-center mt-4">
       <h3 class="title">Interested in hiring me?</h3>
       <h4 class="description mb-5">If you got questions about my projects or need assitance with any work feel free to contact me at any time. <br> I'm here to help!</h4>
-      <button type="submit" href='{!! url('pages/contact'); !!}' class="btn btn-primary btn-primary-contact btn-round-contact btn-lg mrgn-bot-about">Contact Me</button>
+      <a href='{!! url('pages/contact'); !!}'><button type="submit" href='{!! url('/pages/contact'); !!}' class="btn btn-primary btn-primary-contact btn-round-contact btn-lg mrgn-bot-about">Contact Me</button></a>
     </div>
   </div>
 
