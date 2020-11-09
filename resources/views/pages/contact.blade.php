@@ -212,7 +212,7 @@
                    </div>
                    <div class="description">
                      <h5 class="info-title">
-                       info@gmeportfolio.com
+                       guido.m.enrique@gmail.com
                      </h5>
                    </div>
                  </div>
