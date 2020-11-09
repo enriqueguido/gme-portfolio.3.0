@@ -54,7 +54,7 @@
             <a class="dropdown-item" href="https://floating-temple-77823.herokuapp.com/" target="_blank">
               <i class="tim-icons icon-atom"></i> Genome Technologies
             </a>
-            <a class="dropdown-item" href="" target="_blank">
+            <a class="dropdown-item" href="https://www.figma.com/proto/KRU2B2KtnxwzQ5zF4JnONq/iStudy-Prototype?node-id=1%3A5&scaling=scale-down" target="_blank">
               <i class="tim-icons icon-book-bookmark"></i> iStudy
             </a>
             <a class="dropdown-item" href="https://salty-atoll-75507.herokuapp.com/" target="_blank">

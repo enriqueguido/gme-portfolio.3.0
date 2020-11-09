@@ -449,7 +449,7 @@
                         Part of Udacity UX Design Program I created iLearn. UX research was performed and and Figma was used to create wireframes, high fidelity design mokups, and prototype. iLearn is a mobile application where students can find tutors in their area.
                       </div>
                       <div class="footer">
-                        <a href="https://floating-temple-77823.herokuapp.com/" target="_blank" class="btn btn-icon btn-round"><i class="fa tim-icons icon-link-72"></i></a>
+                        <a href="https://www.figma.com/proto/KRU2B2KtnxwzQ5zF4JnONq/iStudy-Prototype?node-id=1%3A5&scaling=scale-down" target="_blank" class="btn btn-icon btn-round"><i class="fa tim-icons icon-link-72"></i></a>
                         <!-- <a href="javascript:;" class="btn btn-icon btn-facebook btn-round"><i class="fab fa-facebook-square"></i></a> -->
                         <!-- <a href="javascript:;" class="btn btn-icon btn-dribbble btn-round"><i class="fab fa-dribbble"></i></a> -->
                       </div>
