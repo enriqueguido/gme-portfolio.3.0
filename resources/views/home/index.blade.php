@@ -173,10 +173,10 @@
     <!-- </div> -->
     <!-- <img src="../img/blob.png" class="path"> -->
     <!-- <img src="../img/path2.png" class="path2"> -->
-    <img src="../img/triunghiuri.png" class="shapes triangle triangle-mobile">
-    <img src="../img/waves.png" class="shapes wave">
+    <!-- <img src="../img/triunghiuri.png" class="shapes triangle triangle-mobile"> -->
+    <!-- <img src="../img/waves.png" class="shapes wave"> -->
     <!-- <img src="../img/patrat.png" class="shapes squares"> -->
-    <img src="../img/cercuri.png" class="shapes circle">
+    <!-- <img src="../img/cercuri.png" class="shapes circle"> -->
     </div>
   </div>
       <!-- ============ End of Tech Section ============ -->
