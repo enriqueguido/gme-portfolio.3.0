@@ -27,7 +27,7 @@
             <!-- Fall back img -->
             <img src="../img/Group 28.svg" alt="" id="logo-name">
           </object>
-          <h1 class="text-white text-white-margin text-main">Designer | Developer</h1>
+          <h1 class="text-white text-white-margin text-main">UX/UI Designer | Developer</h1>
           <!-- <div class="content-center brand">
             <h1 class="h1-seo center-left mobile-size" id="changeText"></h1>
           </div> -->
