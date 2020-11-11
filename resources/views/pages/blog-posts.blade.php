@@ -18,7 +18,7 @@
       <div class="content-center">
         <div class="row">
           <div class="col-md-6 ml-auto mr-auto text-center">
-            <h1 class="title">A Place to share my journey as a dveloper &amp; tips &amp; tricks I learned along the way.</h1>
+            <h1 class="title">A Place to share my journey &amp; tips &amp; tricks I learned along the way.</h1>
             <!-- <div class="btn-wrapper profile pt-3 pad-wrapper"> -->
               <!-- <a target="_blank" href="https://twitter.com/maxstang21" class="btn btn-icon btn-twitter btn-round" data-toggle="tooltip" data-original-title="Follow me on Twitter">
                 <i class="fab fa-twitter"></i>
@@ -552,7 +552,7 @@
                 <h2 class="title">Blog Post Coming Soon!</h2>
                 <h4 class="title">Subscribe to find out more</h4>
                 <p class="description">
-                  Send me your email and I will notify you when first blog post is out.
+                  Send me your email and I will notify you when my first blog post is out.
                 </p>
               </div>
               <div class="card card-raised card-form-horizontal">

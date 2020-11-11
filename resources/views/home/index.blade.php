@@ -76,7 +76,8 @@
           <!-- <div class="col-lg-8 col-md-12 sec-margin-top"> -->
             <h1 class="text-center">My Skills</h1>
             <h4 class="description description-tech description-text">
-              I am passionate aboute UX/UI design and love coding. I thrive when using technology to solve problems, and I am always up for a new challenge.
+              I am passionate about UX/UI design and love coding.
+              I thrive when using technology to solve problems, and I am always up for a new challenge.
               Keep scrolling to find out more about me!
             </h4>
             <!-- <div class="btn-wrapper">
@@ -217,7 +218,7 @@
                   </div>
                   <h4 class="info-title">Custome</h4>
                   <hr class="line-success">
-                  <p>My website are build custome to your needs.</p>
+                  <p>My websites are built custom to your needs.</p>
                 </div>
               </div>
               <div class="col-lg-4">
@@ -237,7 +238,7 @@
                   </div>
                   <h4 class="info-title">Clean Code</h4>
                   <hr class="line-yellow">
-                  <p>I always write clean reliable code.</p>
+                  <p>I always write clean, reliable code.</p>
                 </div>
               </div>
               <div class="col-lg-4">
@@ -247,7 +248,7 @@
                   </div>
                   <h4 class="info-title">Reliable & Secure</h4>
                   <hr class="line-blue">
-                  <p>I build all my sites with realibility & security as my priority.</p>
+                  <p>I build all my sites with reliability & security as my priority.</p>
                 </div>
               </div>
             </div>
@@ -274,9 +275,9 @@
               <div class="pl-md-5">
                 <h1>Current
                   <br/>Experience</h1>
-                <p>I acquired hands-on experience as a project coordinator and work with stakeholders and executives to understand and analyze project requirements, and manage projects from beginning to end while ensuring that the projects get accomplished within its due time, budget, and scope.</p>
+                <p>I Have worked hand-in-hand with founders to design fully responsive web-applications, prototypes, logos, pitch decks, business plans, financial projections, and much more. I have gained valuable freelance experience that allows me to design user-centric technology products that are data-driven.</p>
                 <br/>
-                <p>I am in charge of creating reports in Salesforce for the executive team for several user metrics for their physcian portal, as well as the main contact for escalated complaints in the QM dept, among other duties.</p>
+                <p>My technical abilities in different programming languages such as JavaScript & Ruby allows me to bring a product from ideation to conception. Because of my programming expertise, I work extremely well in all types of teams & can bridge the gap between the technical and no-technical world.</p>
                 <br/>
                 <a href='{!! url('pages/about-me'); !!}' class="font-weight-bold text-info mt-5">See More <i class="tim-icons icon-minimal-right text-info"></i></a>
               </div>
@@ -415,7 +416,7 @@
                         <strong>Framework:</strong> Laravel
                       </div>
                       <div class="description">
-                        Genome Technologies is a consulting group that assist physcians via genomics to provide their patients with personilized healthcare with the use of a platform and several proprietary exams. Build on Laravel with PHP &amp; following an MVC architecture, please click the GitHub button to review the code.
+                        Genome Technologies is a consulting group that assists physicians via genomics to provide their patients with personalized healthcare with the use of a platform and several proprietary exams. Build on Laravel with PHP & following an MVC architecture. Please click the GitHub button to review the code.
                       </div>
                       <div class="footer">
                         <a href="https://github.com/enriqueguido/genometechapp" target="_blank" class="btn btn-icon btn-github btn-round"><i class="fab fa-github"></i></a>
@@ -446,7 +447,7 @@
                         <strong>Framework:</strong> Figma
                       </div>
                       <div class="description">
-                        Part of Udacity UX Design Program I created iLearn. UX research was performed and and Figma was used to create wireframes, high fidelity design mokups, and prototype. iLearn is a mobile application where students can find tutors in their area.
+                        As part of Udacity UX Design program, I created iLearn. UX research was performed and Figma was used to create wireframes, high fidelity design mockups, and prototype. iLearn is a mobile application where students can find tutors in their area. Please click the prototype link to see more.
                       </div>
                       <div class="footer">
                         <a href="https://www.figma.com/proto/KRU2B2KtnxwzQ5zF4JnONq/iStudy-Prototype?node-id=1%3A5&scaling=scale-down" target="_blank" class="btn btn-icon btn-round"><i class="fa tim-icons icon-link-72"></i></a>
@@ -504,7 +505,7 @@
                         <strong>Framework:</strong> Ruby on rails
                       </div>
                       <div class="description">
-                        Utilizing Eventbride API GoWithMe is a social platform that allows its users to find events &amp; connects them to those attending it to meet people &amp; make event arrangements. Click the GitHub button to review the code.
+                        Utilizing Eventbrite API GoWithMe is a social platform that allows its users to find events & connects them to those attending it to meet people & make event arrangements. Click the GitHub button to review the code.
                       </div>
                       <div class="footer">
                         <a href="https://github.com/enriqueguido/with_me" target="_blank" class="btn btn-icon btn-github btn-round"><i class="fab fa-github"></i></a>

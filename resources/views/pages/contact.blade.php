@@ -47,7 +47,7 @@
 
   <div class="main">
     <div class="title text-center">
-      <h3>Follow me on social media</h3>
+      <h3>Other ways to reach me</h3>
     </div>
     <div class="social-line social-line-big-icons margin-bottom">
       <div class="container">
