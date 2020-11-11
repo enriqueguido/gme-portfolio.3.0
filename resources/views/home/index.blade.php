@@ -110,8 +110,8 @@
           <div class="progress-container progress-success progress-index right-progress">
             <span class="progress-badge">Figma, Photoshop, Illustrator, Miro</span>
             <div class="progress">
-              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-                <span class="progress-value">85%</span>
+              <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
+                <span class="progress-value">90%</span>
               </div>
             </div>
           </div>
