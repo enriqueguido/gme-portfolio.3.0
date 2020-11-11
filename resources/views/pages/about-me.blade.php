@@ -106,7 +106,7 @@
                             HTML
                           </td>
                           <td>
-                            Photoshop
+                            Figma
                           </td>
                         </tr>
                         <tr>
@@ -117,7 +117,7 @@
                             CSS
                           </td>
                           <td>
-                            Illustrator
+                            Balsamic
                           </td>
                         </tr>
                         <tr>
