@@ -275,9 +275,9 @@
               <div class="pl-md-5">
                 <h1>Current
                   <br/>Experience</h1>
-                <p>I Have worked hand-in-hand with founders to design fully responsive web-applications, prototypes, logos, pitch decks, business plans, financial projections, and much more. I have gained valuable freelance experience that allows me to design user-centric technology products that are data-driven.</p>
+                <p>I am a full-time project coordinator at a healthcare technology company based in Boca Raton, Florida. I work with vendors, stakeholders, and executives to understand and analyze project requirements and manage them from beginning to end while ensuring that the projects get accomplished within their budget and scope.</p>
                 <br/>
-                <p>My technical abilities in different programming languages such as JavaScript & Ruby allows me to bring a product from ideation to conception. Because of my programming expertise, I work extremely well in all types of teams & can bridge the gap between the technical and no-technical world.</p>
+                <p>I have gained valuable experience in streamlining business processes, conflict resolution, documentation, analysis, market research, and much more.</p>
                 <br/>
                 <a href='{!! url('pages/about-me'); !!}' class="font-weight-bold text-info mt-5">See More <i class="tim-icons icon-minimal-right text-info"></i></a>
               </div>
