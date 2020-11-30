@@ -39,12 +39,12 @@
       <!-- <img src="../img/waves.png" class="shapes wave"> -->
       <!-- ==================== Social Media Section =================== -->
       <div class="social-media-index index-linkedin">
-        <a id="linkedin" class="btn btn-icon btn-linkedin btn-round linkedin-invert-background btn-index-social" data-toggle="tooltip" data-original-title="Follow me on LinkedIn!">
+        <a href="https://www.linkedin.com/in/guido-maximiliano-enrique/" target="_blank" id="linkedin" class="btn btn-icon btn-linkedin btn-round linkedin-invert-background btn-index-social" data-toggle="tooltip" data-original-title="Follow me on LinkedIn!">
           <i class="fab fa-linkedin fa-linkedin-invert"></i>
         </a>
       </div>
       <div class="social-media-index index-github">
-        <a id="github" class="btn btn-icon btn-github btn-round github-invert-background btn-index-social" data-toggle="tooltip" data-original-title="Check out my projects on GitHub!">
+        <a href="https://github.com/enriqueguido" target="_blank" id="github" class="btn btn-icon btn-github btn-round github-invert-background btn-index-social" data-toggle="tooltip" data-original-title="Check out my projects on GitHub!">
           <i class="fab fa-github fa-github-invert "></i>
         </a>
       </div>
